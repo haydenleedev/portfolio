@@ -1558,7 +1558,7 @@ img#wpstats {
 @media screen and (min-width: 600px) {
 
 	.site-header {
-	background: url("images/header_bg.png") no-repeat left top;
+	background: url("../images/header_bg.png") no-repeat left top;
 }
 	#logo {
 	float: left;
@@ -1635,7 +1635,6 @@ img#wpstats {
 		border-bottom: 0;
 		color: #ffffff;
 		line-height: 4.992307692;
-		text-transform: uppercase;
 		white-space: nowrap;
 	}
 	.main-navigation li a:hover {
